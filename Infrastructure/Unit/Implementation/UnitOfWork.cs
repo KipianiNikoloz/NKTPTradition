@@ -16,7 +16,9 @@ public class UnitOfWork: IUnitOfWork
     
     
     public IHotelRepository HotelRepository { get => new HotelRepository(_context); }
-    
+    public IRegionRepository RegionRepository { get => new RegionRepository(_context); }
+    public ITraditionRepository TraditionRepository { get => new TraditionRepository(_context); }
+
     public bool HasChanges()
     {
         return _context.ChangeTracker.HasChanges();

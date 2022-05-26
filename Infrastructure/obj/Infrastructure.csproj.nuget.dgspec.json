@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/nikolozkipiani/Documents/Web/NKTPTradition/Infrastructure/Infrastructure.csproj": {}
+    "/mnt/dc504d40-76a9-47b9-9c7e-308357be7e40/Documents/NKTPTradition/Infrastructure/Infrastructure.csproj": {}
   },
   "projects": {
-    "/home/nikolozkipiani/Documents/Web/NKTPTradition/Core/Core.csproj": {
+    "/mnt/dc504d40-76a9-47b9-9c7e-308357be7e40/Documents/NKTPTradition/Core/Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/nikolozkipiani/Documents/Web/NKTPTradition/Core/Core.csproj",
+        "projectUniqueName": "/mnt/dc504d40-76a9-47b9-9c7e-308357be7e40/Documents/NKTPTradition/Core/Core.csproj",
         "projectName": "Core",
-        "projectPath": "/home/nikolozkipiani/Documents/Web/NKTPTradition/Core/Core.csproj",
+        "projectPath": "/mnt/dc504d40-76a9-47b9-9c7e-308357be7e40/Documents/NKTPTradition/Core/Core.csproj",
         "packagesPath": "/home/nikolozkipiani/.nuget/packages/",
-        "outputPath": "/home/nikolozkipiani/Documents/Web/NKTPTradition/Core/obj/",
+        "outputPath": "/mnt/dc504d40-76a9-47b9-9c7e-308357be7e40/Documents/NKTPTradition/Core/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/nikolozkipiani/.nuget/NuGet/NuGet.Config"
@@ -58,18 +58,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/6.0.104/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/6.0.105/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/nikolozkipiani/Documents/Web/NKTPTradition/Infrastructure/Infrastructure.csproj": {
+    "/mnt/dc504d40-76a9-47b9-9c7e-308357be7e40/Documents/NKTPTradition/Infrastructure/Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/nikolozkipiani/Documents/Web/NKTPTradition/Infrastructure/Infrastructure.csproj",
+        "projectUniqueName": "/mnt/dc504d40-76a9-47b9-9c7e-308357be7e40/Documents/NKTPTradition/Infrastructure/Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "/home/nikolozkipiani/Documents/Web/NKTPTradition/Infrastructure/Infrastructure.csproj",
+        "projectPath": "/mnt/dc504d40-76a9-47b9-9c7e-308357be7e40/Documents/NKTPTradition/Infrastructure/Infrastructure.csproj",
         "packagesPath": "/home/nikolozkipiani/.nuget/packages/",
-        "outputPath": "/home/nikolozkipiani/Documents/Web/NKTPTradition/Infrastructure/obj/",
+        "outputPath": "/mnt/dc504d40-76a9-47b9-9c7e-308357be7e40/Documents/NKTPTradition/Infrastructure/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/nikolozkipiani/.nuget/NuGet/NuGet.Config"
@@ -84,8 +84,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/home/nikolozkipiani/Documents/Web/NKTPTradition/Core/Core.csproj": {
-                "projectPath": "/home/nikolozkipiani/Documents/Web/NKTPTradition/Core/Core.csproj"
+              "/mnt/dc504d40-76a9-47b9-9c7e-308357be7e40/Documents/NKTPTradition/Core/Core.csproj": {
+                "projectPath": "/mnt/dc504d40-76a9-47b9-9c7e-308357be7e40/Documents/NKTPTradition/Core/Core.csproj"
               }
             }
           }
@@ -114,23 +114,23 @@
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[6.0.2, )"
+              "version": "[6.0.5, )"
             },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[6.0.2, )"
+              "version": "[6.0.5, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[6.0.2, )"
+              "version": "[6.0.5, )"
             },
             "Npgsql.EntityFrameworkCore.PostgreSQL": {
               "target": "Package",
-              "version": "[6.0.3, )"
+              "version": "[6.0.4, )"
             }
           },
           "imports": [
@@ -148,7 +148,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/6.0.104/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/6.0.105/RuntimeIdentifierGraph.json"
         }
       }
     }

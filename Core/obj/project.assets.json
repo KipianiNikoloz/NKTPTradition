@@ -297,11 +297,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/nikolozkipiani/Documents/Web/NKTPTradition/Core/Core.csproj",
+      "projectUniqueName": "/mnt/dc504d40-76a9-47b9-9c7e-308357be7e40/Documents/NKTPTradition/Core/Core.csproj",
       "projectName": "Core",
-      "projectPath": "/home/nikolozkipiani/Documents/Web/NKTPTradition/Core/Core.csproj",
+      "projectPath": "/mnt/dc504d40-76a9-47b9-9c7e-308357be7e40/Documents/NKTPTradition/Core/Core.csproj",
       "packagesPath": "/home/nikolozkipiani/.nuget/packages/",
-      "outputPath": "/home/nikolozkipiani/Documents/Web/NKTPTradition/Core/obj/",
+      "outputPath": "/mnt/dc504d40-76a9-47b9-9c7e-308357be7e40/Documents/NKTPTradition/Core/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/nikolozkipiani/.nuget/NuGet/NuGet.Config"
@@ -348,7 +348,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/6.0.104/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/6.0.105/RuntimeIdentifierGraph.json"
       }
     }
   }

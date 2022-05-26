@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "x3YS63F7T25gZ3DsMdsdkDKBq6LN3R8qcCgkNMMJBxgcVBzenNA2bxDGxNaWOqOf+7BwxsJXUpT1pUEpld+QRg==",
+  "dgSpecHash": "zrcfVOjkEv9R30l/Obi7oDg6dyUBnE3OeFKYl5/FzoyoT1PtFk3UjKBum7urfp5CRrc+gYacUkXkcDr95lezNA==",
   "success": true,
-  "projectFilePath": "/home/nikolozkipiani/Documents/Web/NKTPTradition/Core/Core.csproj",
+  "projectFilePath": "/mnt/dc504d40-76a9-47b9-9c7e-308357be7e40/Documents/NKTPTradition/Core/Core.csproj",
   "expectedPackageFiles": [
     "/home/nikolozkipiani/.nuget/packages/automapper/11.0.0/automapper.11.0.0.nupkg.sha512",
     "/home/nikolozkipiani/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/11.0.0/automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
